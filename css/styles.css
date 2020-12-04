@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Montserrat";
+}
+
+h1 {
+  margin : 0 0 30px 0;
+  font-family: 'Rochester', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  margin: 0 0 80px;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+
+.top-container {
+  position: relative;
+  background-color: #E4F9F5;
+  padding-top: 50px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 30px;
+  right: 100px;
+}
+
+hr {
+  color: grey;
+  border-style: dotted none none;
+  border-width: 10px;
+  margin: 5% auto;
+  width: 5%;
+}
+
+.paaji {
+  margin-bottom: 2%;
+}
+
+.hello {
+  font-family: "Montserrat Semibold";
+  font-size: 3.75rem;
+  color: #66BFBF;
+  margin : 0;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.programmer-title {
+  font-family: "Montserrat Regular";
+  font-size: 1.875rem;
+  color: #bdbdbd;
+  margin-top: 1%;
+  margin-bottom: 3%;
+}
+
+.my-skills {
+  font-family: "Sacramento Regular";
+  font-size: 6.25rem;
+  color: #66BFBF;
+  margin: 5% 0;
+}
+
+.skill-description {
+  color: #696969;
+  font-family: "Montserrat Medium";
+  font-size: 18px;
+  text-align: center;
+  margin: 0;
+  width: 40%;
+  display: inline-block;
+}
+
+.front-end-developer {
+  margin-bottom: 7%;
+}
+
+.skill-title {
+  color: #bdbdbd;
+  font-family: "Montserrat Regular";
+  font-size: 30px;
+  text-align: center;
+  margin: 2% 0 1%;
+}
+
+.GetInTouch {
+  color: #66BFBF;
+  font-family: "Montserrat Medium";
+  font-size: 3.125rem;
+  margin: 2% 0 1%;
+}
+
+.love-to-code-p {
+  color: #696969;
+  font-family: "Montserrat Medium";
+  font-size: 20px;
+  margin: 0;
+}
+
+.contact-me {
+  margin-top: 2%;
+}
+
+.made {
+  color: #696969;
+  font-family: "Montserrat Medium";
+  font-size: 25px;
+  margin: 5% auto;
+  width: 50%;
+}
+
+.footer {
+  background-color: #66BFBF;
+  padding: 2% 0 10px;
+}
+
+.copyright {
+  color: #208e8e;
+  margin: 0;
+  margin-top: 1%;
+}
+
+.anchor-tag {
+  color: #208e8e;
+  font-family: "Montserrat Medium";
+  font-size: 20px;
+  padding: 0 2%;
+}
+
+.anchor-tag:hover {
+  text-decoration: none;
+  color: white;
+}
